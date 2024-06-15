@@ -1,4 +1,4 @@
-# FastMinecarts Plugin
+# FastMinecarts 1.20.X Plugin
 [![GitHub Release](https://img.shields.io/github/v/release/certainly1182/FastMinecarts?include_prereleases)](https://github.com/certainly1182/FastMinecarts/releases)
 <!--- [![Modrinth Downloads](https://img.shields.io/modrinth/dt/######)](https://modrinth.com/plugin/######) -->
 
@@ -25,7 +25,7 @@ The following configuration options are available:
 # List of blocks and their corresponding maximum minecart speeds
 # Blocks must be from https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Material.html
 # The default minecart speed is 0.4
-default-speed: 2.0
+default-speed: 0.4
 blocks:
   COARSE_DIRT: 0.4
   SOUL_SAND: 0.2
