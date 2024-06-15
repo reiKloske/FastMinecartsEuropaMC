@@ -5,3 +5,4 @@ default-speed: 2.0
 blocks:
   COARSE_DIRT: 0.4
   SOUL_SAND: 0.2
+  GRAVEL: 5.5
