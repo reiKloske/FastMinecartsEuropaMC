@@ -1,4 +1,4 @@
-# FastMinecarts 1.21.X Plugin
+# FastMinecarts 1.20+ Plugin
 [![GitHub Release](https://img.shields.io/github/v/release/certainly1182/FastMinecarts?include_prereleases)](https://github.com/certainly1182/FastMinecarts/releases)
 <!--- [![Modrinth Downloads](https://img.shields.io/modrinth/dt/######)](https://modrinth.com/plugin/######) -->
 
